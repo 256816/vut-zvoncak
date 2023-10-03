@@ -1,0 +1,5 @@
+C:/Users/Student/source/repos/Blesk/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Student/source/repos/Blesk/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Student/source/repos/Blesk/out/build/x64-debug/Blesk/CMakeFiles/Blesk.dir
+C:/Users/Student/source/repos/Blesk/out/build/x64-debug/Blesk/CMakeFiles/edit_cache.dir
+C:/Users/Student/source/repos/Blesk/out/build/x64-debug/Blesk/CMakeFiles/rebuild_cache.dir
