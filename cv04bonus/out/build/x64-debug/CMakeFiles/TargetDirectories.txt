@@ -1,0 +1,5 @@
+D:/256816/cv04bonus/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/256816/cv04bonus/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/256816/cv04bonus/out/build/x64-debug/cv04bonus/CMakeFiles/cv04bonus.dir
+D:/256816/cv04bonus/out/build/x64-debug/cv04bonus/CMakeFiles/edit_cache.dir
+D:/256816/cv04bonus/out/build/x64-debug/cv04bonus/CMakeFiles/rebuild_cache.dir
